@@ -83,16 +83,6 @@ class _ShopState extends State<Shop> {
                 ],
               ),
             ),
-            // ListView.builder(
-            //   scrollDirection: Axis.horizontal,
-            //   itemCount: 5,
-            //   itemBuilder: (context, index) => ShoeCard(
-            //       shoe: Shoe(
-            //           desc: "akfsdg",
-            //           imagePath: "/assets/images/icon.png",
-            //           price: 12,
-            //           title: "New Shoe")),
-            // )
             SizedBox(
               height: 20,
             ),
